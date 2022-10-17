@@ -7,6 +7,7 @@
 
 1. data
     - processed : datos procesados
+		- ames_processed.csv
     - raw : datos originales
         - ames.csv
 2. notebooks
